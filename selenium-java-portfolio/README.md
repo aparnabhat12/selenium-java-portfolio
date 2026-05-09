@@ -137,13 +137,8 @@ mvn test -DsuiteXmlFile=testng.xml
 
 ---
 
-## 👤 Author
+## 👤 Aparna Bhat
 
-**Your Name**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Aparna Bhat
+- LinkedIn: https://www.linkedin.com/in/aparna-bhat-48374b262/
 
----
-
-## 📄 License
-MIT
