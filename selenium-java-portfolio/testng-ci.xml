@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="CI Suite - Chrome Headless" verbose="1">
+
+    <listeners>
+        <listener class-name="com.qaportfolio.listeners.TestListener"/>
+    </listeners>
+
+    <test name="Chrome Headless Tests">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.qaportfolio.tests.LoginTest"/>
+            <class name="com.qaportfolio.tests.InventoryTest"/>
+            <class name="com.qaportfolio.tests.CheckoutTest"/>
+        </classes>
+    </test>
+
+</suite>
