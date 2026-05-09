@@ -1,6 +1,6 @@
 #  Selenium Java Automation Portfolio
 
-![CI](https://github.com/YOUR_USERNAME/selenium-java-portfolio/actions/workflows/selenium-ci.yml/badge.svg)
+
 ![Java](https://img.shields.io/badge/Java-11-orange?logo=java)
 ![Selenium](https://img.shields.io/badge/Selenium-4.x-green?logo=selenium)
 ![TestNG](https://img.shields.io/badge/TestNG-7.x-red)
