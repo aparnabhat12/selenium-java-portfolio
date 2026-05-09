@@ -1,4 +1,4 @@
-# 🧪 Selenium Java Automation Portfolio
+#  Selenium Java Automation Portfolio
 
 ![CI](https://github.com/YOUR_USERNAME/selenium-java-portfolio/actions/workflows/selenium-ci.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-11-orange?logo=java)
@@ -10,7 +10,7 @@ Enterprise-grade automation framework built with **Selenium 4**, **Java 11**, **
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 selenium-java-portfolio/
@@ -49,7 +49,7 @@ selenium-java-portfolio/
 
 ---
 
-## ✅ Framework Features
+##  Framework Features
 
 | Feature | Implementation |
 |---|---|
@@ -65,7 +65,7 @@ selenium-java-portfolio/
 
 ---
 
-## 🧪 Test Cases
+##  Test Cases
 
 ### Login Tests (7 cases)
 - Valid login → redirects to inventory
@@ -86,7 +86,7 @@ selenium-java-portfolio/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Java 11+
@@ -115,7 +115,7 @@ After running, open the generated HTML file in `reports/` folder.
 
 ---
 
-## 📊 Test Data (DDT)
+##  Test Data (DDT)
 
 `LoginData.xlsx` has 3 columns:
 
@@ -127,7 +127,7 @@ After running, open the generated HTML file in `reports/` folder.
 
 ---
 
-## ⚙️ Cross Browser Execution
+##  Cross Browser Execution
 
 `testng.xml` runs tests in **parallel** across Chrome, Firefox, and Edge:
 
